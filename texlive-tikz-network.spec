@@ -1,6 +1,6 @@
 Name:		texlive-tikz-network
 Version:	51884
-Release:	1
+Release:	2
 Summary:	Draw networks with TikZ
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/tikz-network
