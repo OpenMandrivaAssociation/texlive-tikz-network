@@ -3,7 +3,7 @@ Version:	51884
 Release:	2
 Summary:	Draw networks with TikZ
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/tikz-network
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/tikz-network
 License:	gpl3+
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/tikz-network.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/tikz-network.doc.r%{version}.tar.xz
